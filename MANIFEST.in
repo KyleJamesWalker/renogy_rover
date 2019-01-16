@@ -1,0 +1,2 @@
+include README.rst renogy_rover/settings.yaml
+recursive-exclude tests *

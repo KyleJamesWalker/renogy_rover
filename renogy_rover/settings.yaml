@@ -1,0 +1,11 @@
+---
+serial:
+  method: rtu
+  port: /dev/tty.usbserial-AO000ERJ
+  baudrate: 9600
+  stopbits: 1
+  bytesize: 8
+  parity: 'N'
+cache_ttl: 10
+driver: renogy
+unit: 1
