@@ -22,7 +22,7 @@ requirements.update(all=sorted(set().union(*requirements.values())))
 
 setup(
     name='renogy_rover',
-    version='0.0.0',
+    version='0.0.1',
     description='MODBUS Driver for the Renogy Rover 20A/40A Charge Controller',
     long_description=readme,
     author='Kyle James Walker',
